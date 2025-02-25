@@ -4,7 +4,7 @@ A simple Hangman game implemented in Python. Guess the word letter by letter bef
 
 ## Features 🚀 
 - Random word selection
-- Limited attempts to guess the word
+- Limited attempts to guess the word 
 - Visual representation of the hangman
 - Simple and interactive command-line interface
 
