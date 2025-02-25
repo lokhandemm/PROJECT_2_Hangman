@@ -1,6 +1,6 @@
-# Hangman Game 🎭
+# Hangman Game 🎭 
        
-A simple Hangman game implemented in Python. Guess the word letter by letter before running out of attempts!
+A simple Hangman game implemented in Python. Guess the word letter by letter before running out of attempts! 
  
 ## Features 🚀 
 - Random word selection
