@@ -3,7 +3,7 @@
 A simple Hangman game implemented using Python. Guess the word letter by letter before running out of attempts!  
   
 ## Features 🚀 
-- Random word selection
+- Random word selection 
 - Limited attempts to guess the word 
 - Visual representation of the hangman
 - Simple and interactive command-line interface
